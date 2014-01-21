@@ -15,8 +15,7 @@ Say that you have some jasmine 1.x matchers in an object:
 ``` javascript
 var jasmine1Matchers = {
   toBeNamed: function(name) {
-    var color;
-    color = this.actual;
+    var color = this.actual;
     this.message = function() {
       return "expected foo to be " + name + " but was " + color.name;
     };
