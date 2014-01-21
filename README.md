@@ -4,6 +4,8 @@ This is a Jasmine 2.0 helper for users who want to use legacy Jasmine 1.x matche
 
 This may be particularly useful to anyone who publishes Jasmine support libraries and wants to maintain support of both Jasmine 1.x and 2.x simultaneously.
 
+[Download the latest release here](https://github.com/testdouble/jasmine-matcher-wrapper/releases/latest)
+
 ## Usage
 
 Usage is really easy.
