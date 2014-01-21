@@ -1,6 +1,6 @@
 {
   "name": "jasmine-matcher-wrapper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Wraps Jasmine 1.x matchers for use with Jasmine 2",
   "homepage": "https://github.com/testdouble/jasmine-matcher-wrapper",
   "author": {
