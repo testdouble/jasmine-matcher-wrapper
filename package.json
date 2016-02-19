@@ -3,11 +3,16 @@
   "version": "0.0.3",
   "description": "Wraps Jasmine 1.x matchers for use with Jasmine 2",
   "homepage": "https://github.com/testdouble/jasmine-matcher-wrapper",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testdouble/jasmine-matcher-wrapper.git"
+  },
   "author": {
     "name": "Justin Searls",
     "company": "Test Double, LLC"
   },
   "main": "main.js",
+  "browser": "dist/jasmine-matcher-wrapper.js",
   "dependencies": {
     "coffee-script": "~ 1.6.3",
     "minijasminenode": "~0.2.7"
